@@ -1,10 +1,10 @@
 ## Hi, I'm Kavin⚡
-👨‍💻 CSE Student | Future Software Engineer💻
-Building today, leading tomorrow 
-🐍 Python Developer(Beginner) 
-🌐 Web Developer in Progress  
-⚡ HTML • CSS • JavaScript🚀
-Code. Create. Conquer.
+ 👨‍💻 CSE Student | Future Software Engineer💻.
+  Building today, leading tomorrow .
+ 🐍 Python Developer(Beginner) .
+  🌐 Web Developer in Progress.  
+ ⚡ HTML • CSS • JavaScript🚀.
+ Code. Create. Conquer.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-kavin-284229380) 
 
